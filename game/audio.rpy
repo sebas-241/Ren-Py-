@@ -1,0 +1,1 @@
+define audio.BGM_escena_inicial = "bgm/OSTDoki.mp3"
